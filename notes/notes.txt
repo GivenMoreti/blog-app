@@ -1,0 +1,32 @@
+
+
+// blog
+
+// define requirements
+
+// business is looking for/ BUSINESS REQUIRMENTS/ USER STORY
+
+/*
+    data it want to store
+        interfaces:
+        define the contract -how the data looks like/ models
+
+        Blogs
+            - id - distinguish the blog from others, primary key - unique
+            - title - text
+            - description
+            - date created
+            - date updated
+            
+        Users: users and their permissions
+            - guest users - dont want to login/ register before they access our blogs
+            - registered users
+            - admins
+        Permissions
+            rules [what you can access]
+
+    method of storage:
+        localstorage browser storage/ array to store our objects
+*/
+
+

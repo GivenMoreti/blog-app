@@ -1,0 +1,20 @@
+  494  dir
+  495  clear
+  496  touch main.ts
+  497  ls
+  498  code .
+  499  PWD
+  500  touch notes.txt
+  501  ls
+  502  mkdir notes
+  503  rn  main.ts notes.txt
+  504  rn main.ts notes.txt
+  505  mv main.ts notes.txt
+  506  ls
+  507  cat notes.txt
+  508  ls
+  509  mv notes.txt /notes
+  510  chmod +x /notes
+  511  chmod +x notes
+  512  mv notes.txt /notes
+  513  history | tail -n 20 >> cmds.txt
